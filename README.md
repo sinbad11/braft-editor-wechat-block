@@ -1,0 +1,1 @@
+# braft-editor-wechat-block
